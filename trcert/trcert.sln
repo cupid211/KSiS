@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trcert", "trcert\trcert.csproj", "{14F5951C-2818-4333-B1FE-9845BFC821DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14F5951C-2818-4333-B1FE-9845BFC821DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F5951C-2818-4333-B1FE-9845BFC821DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F5951C-2818-4333-B1FE-9845BFC821DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F5951C-2818-4333-B1FE-9845BFC821DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F500C64-C6CF-4883-BE7E-70C73D9BB408}
+	EndGlobalSection
+EndGlobal

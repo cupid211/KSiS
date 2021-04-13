@@ -1,0 +1,13 @@
+D:\trcert\trcert\bin\Debug\netcoreapp3.1\trcert.exe
+D:\trcert\trcert\bin\Debug\netcoreapp3.1\trcert.deps.json
+D:\trcert\trcert\bin\Debug\netcoreapp3.1\trcert.runtimeconfig.json
+D:\trcert\trcert\bin\Debug\netcoreapp3.1\trcert.runtimeconfig.dev.json
+D:\trcert\trcert\bin\Debug\netcoreapp3.1\trcert.dll
+D:\trcert\trcert\bin\Debug\netcoreapp3.1\trcert.pdb
+D:\trcert\trcert\obj\Debug\netcoreapp3.1\trcert.csprojAssemblyReference.cache
+D:\trcert\trcert\obj\Debug\netcoreapp3.1\trcert.AssemblyInfoInputs.cache
+D:\trcert\trcert\obj\Debug\netcoreapp3.1\trcert.AssemblyInfo.cs
+D:\trcert\trcert\obj\Debug\netcoreapp3.1\trcert.csproj.CoreCompileInputs.cache
+D:\trcert\trcert\obj\Debug\netcoreapp3.1\trcert.dll
+D:\trcert\trcert\obj\Debug\netcoreapp3.1\trcert.pdb
+D:\trcert\trcert\obj\Debug\netcoreapp3.1\trcert.genruntimeconfig.cache
